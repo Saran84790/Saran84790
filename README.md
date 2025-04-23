@@ -1,5 +1,7 @@
+![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)
 <h1 align="center">Hi 👋, I'm Saran</h1>
 <h3 align="center">Python Developer | Full Stack Learner | </h3>
+<img align='center' alt='coding img' width='50%' src='https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif'>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+Expert+%7C+SQL+Certified;HTML+%26+CSS+Completed;JavaScript+Django+In+Progress;Building+Full+Stack+Skills;Royal+Enfield+Himalayan+Rider+%F0%9F%8F%8D%EF%B8%8F;Dreaming+Big+Coding+Hard" alt="Typing SVG" />
