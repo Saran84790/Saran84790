@@ -46,10 +46,10 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/saran_84790" target="_blank">
+  <a href="https://instagram.com/s.a.r_a.n" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <a href="www.linkedin.com/in/saran-kumar-34246a288" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
