@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saran</h1>
-<h3 align="center">Python Developer | Full Stack Learner | Royal Enfield Rider 🏍️</h3>
+<h3 align="center">Python Developer | Full Stack Learner | </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+Expert+%7C+SQL+Certified;HTML+%26+CSS+Completed;JavaScript+In+Progress;Building+Full+Stack+Skills;Royal+Enfield+Rider+%F0%9F%8F%8D%EF%B8%8F;Dreaming+Big+Coding+Hard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+Expert+%7C+SQL+Certified;HTML+%26+CSS+Completed;JavaScript+Django+In+Progress;Building+Full+Stack+Skills;Royal+Enfield+Himalayan+Rider+%F0%9F%8F%8D%EF%B8%8F;Dreaming+Big+Coding+Hard" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 - 🛠️ Built multiple projects & earned HackerRank certificates  
 - 🏍️ Daily 50km ride on Royal Enfield Himalayan — clear mind, sharp code  
 - 🗣️ Fluent in English with great communication skills  
-- 📫 Reach me on: [LinkedIn](#) | [Instagram - @saran_84790](#)  
+- 📫 Reach me on: [LinkedIn - Saran Kumar]() | [Instagram - @s.a.r_a.n](#)  
 - 💻 Fun Fact: I solve any Python challenge like a boss 😎
 
 ---
@@ -49,7 +49,7 @@
   <a href="https://instagram.com/s.a.r_a.n" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/saran-kumar-34246a288" target="_blank">
+  <a href="https://www.linkedin.com/in/saran-kumar-34246a288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
