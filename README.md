@@ -55,9 +55,10 @@
   <a href="https://www.linkedin.com/in/saran-kumar-34246a288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://saranportfolio7.netlify.app/" target="_blank">
+  <a href="https://saran84790.github.io/sarankumar-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
 </a>
+
 
 </p>
 
